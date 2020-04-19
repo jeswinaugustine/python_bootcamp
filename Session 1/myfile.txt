@@ -1,0 +1,5 @@
+Hello this a text file 
+this is the second line
+this is the third line
+\n this is the forth line\n
+ this is the forth line
